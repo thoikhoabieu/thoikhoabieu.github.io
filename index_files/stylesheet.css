@@ -74,9 +74,11 @@ td
 	border:.5pt solid windowtext;}
 .xl70
 	{mso-style-parent:style0;
+	font-size:13.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	mso-number-format:"General Date";}
+	mso-number-format:"General Date";
+	text-align:left;}
 .xl71
 	{mso-style-parent:style0;
 	font-size:13.0pt;
@@ -125,10 +127,3 @@ td
 	border-right:.5pt solid windowtext;
 	border-bottom:.5pt solid windowtext;
 	border-left:.5pt solid windowtext;}
-.xl76
-	{mso-style-parent:style0;
-	font-size:13.0pt;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:0;
-	mso-number-format:"General Date";
-	text-align:left;}
