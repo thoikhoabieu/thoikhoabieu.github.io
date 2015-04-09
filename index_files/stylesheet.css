@@ -89,19 +89,23 @@ td
 	vertical-align:middle;}
 .xl72
 	{mso-style-parent:style0;
-	font-size:18.0pt;
+	font-size:13.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
 	text-align:center;
-	border:.5pt solid windowtext;}
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
 .xl73
 	{mso-style-parent:style0;
 	font-size:13.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	text-align:left;
+	text-align:center;
 	vertical-align:middle;
-	border-top:.5pt solid windowtext;
+	border-top:none;
 	border-right:.5pt solid windowtext;
 	border-bottom:none;
 	border-left:.5pt solid windowtext;}
@@ -110,29 +114,25 @@ td
 	font-size:13.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	text-align:left;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;}
-.xl75
-	{mso-style-parent:style0;
-	font-size:13.0pt;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:0;
-	text-align:left;
+	text-align:center;
 	vertical-align:middle;
 	border-top:none;
 	border-right:.5pt solid windowtext;
 	border-bottom:.5pt solid windowtext;
 	border-left:.5pt solid windowtext;}
+.xl75
+	{mso-style-parent:style0;
+	font-size:18.0pt;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	text-align:center;
+	border:.5pt solid windowtext;}
 .xl76
 	{mso-style-parent:style0;
 	font-size:13.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	text-align:center;
+	text-align:left;
 	vertical-align:middle;
 	border-top:.5pt solid windowtext;
 	border-right:.5pt solid windowtext;
@@ -143,7 +143,7 @@ td
 	font-size:13.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	text-align:center;
+	text-align:left;
 	vertical-align:middle;
 	border-top:none;
 	border-right:.5pt solid windowtext;
@@ -154,7 +154,7 @@ td
 	font-size:13.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	text-align:center;
+	text-align:left;
 	vertical-align:middle;
 	border-top:none;
 	border-right:.5pt solid windowtext;
